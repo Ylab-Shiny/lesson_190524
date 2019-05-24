@@ -114,4 +114,4 @@ print(paste0("一方、遅延を最も避けにくいのは、", BestWorst_hours
 
 ![](fig4.PNG)
 
-もし内容について御質問やご指摘がありましたら、こちらの[GitHubのIssue]((https://github.com/Ylab-Shiny/lesson_190524/issues/1))で対応しようと思います。
+もし内容について御質問や御指摘がありましたら、こちらの[GitHubのIssue]((https://github.com/Ylab-Shiny/lesson_190524/issues/1))で対応しようと思います。
